@@ -20,7 +20,7 @@ Senior undergraduate student majoring in Mathematics at NYU. Prefers trendy spot
 - Need to know real-time data or at least historical data on average waiting times, especially during peak hours.
 - Display restaurants based on their distance from a specified location (either from the user's specific location or a campus building).
 - Highlight if the restaurant has deal or discount for NYU students.
-- Book the seats in advance
+- Book the seats in advance.
 - For those tight on time, give an option to order food in advance and simply pick it up (ideal for grabbing a meal between classes).
 
 **Problems/Frustrations**: 
@@ -71,8 +71,5 @@ Sophomore student majoring in Politics at NYU. Strict vegetarian due to personal
 
 ## Wireframe Diagrams
 
-
-
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
