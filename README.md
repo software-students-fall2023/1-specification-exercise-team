@@ -52,9 +52,11 @@ NYU students are in need to know the conditions of the restaurant near the unive
 - As a student, I want to know the hygiene status of a restaurant, so that I can keep healthy
 
 ## Activity Diagrams
+UML Activity Diagrams created below is in this [link](https://lucid.app/lucidchart/bce15999-623d-4e29-995d-39a6b5dd4784/edit?viewport_loc=-374%2C997%2C2259%2C1269%2C0_0&invitationId=inv_8161e74b-3389-4570-b588-7d25ec09fada), feel free to make changes
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![image 1](./proj1_UML_StudentLogin.jpg)
 
+![image 2](./proj1_UML_viewComments.jpg)
 ## Clickable Prototype
 
 See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
