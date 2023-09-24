@@ -71,8 +71,4 @@ Sophomore student majoring in Politics at NYU. Strict vegetarian due to personal
 
 ## Wireframe Diagrams
 
-
-
 ## Clickable Prototype
-
-
