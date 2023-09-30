@@ -70,5 +70,8 @@ Sophomore student majoring in Politics at NYU. Strict vegetarian due to personal
 <a href="https://www.figma.com/file/z7R5gxOJGUWRotY6gtpOmU/UML-activity-diagram-for-NYU-discounts?type=whiteboard&node-id=603%3A139&t=C1OaRoQZQiM0J2kh-1"><img src="./Source/UML2.png" alt="Activity Diagram for User Story 9"></a>
 
 ## Wireframe Diagrams
+Below is a picture of the wireframe diagrams of every screen in our app. Click <a href="https://www.figma.com/file/ysePRE2BdQpnOwgiMVVXz1/Wireframe-of-my-App?type=design&node-id=0%3A1&mode=design&t=oUdI9V2Z1VeBwCqB-1">here</a> or the picture to view it on figma.
+<a href="https://www.figma.com/file/ysePRE2BdQpnOwgiMVVXz1/Wireframe-of-my-App?type=design&node-id=0%3A1&mode=design&t=oUdI9V2Z1VeBwCqB-1"><img src="./Source/Wireframes.png" alt="Wireframe Diagrams for our app"></a>
 
 ## Clickable Prototype
+Under Construction...
