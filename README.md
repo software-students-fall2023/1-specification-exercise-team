@@ -62,6 +62,7 @@ Sophomore student majoring in Politics at NYU. Strict vegetarian due to personal
 - As a diner, I want to read reviews from other NYU community members so that I can make informed dining choices based on trusted experiences.
 - As an NYU student, I want to know which restaurants offer NYU-specific discounts so that I can make the most of my student status.
 - As a normal app user, I want to personalize restaurant suggestions that are based on my past preferences that align with my tastes and needs.
+- As a non-tech person, I want the app interface to be intuitive and user-friendly so that I can navigate and find what I need without any confusion or difficulty.
 
 ## Activity Diagrams
 - User Story: As a diner, I want to read reviews from other NYU community members so that I can make informed dining choices based on trusted experiences. Click <a href="https://www.figma.com/file/uFG9xNM2S3cu7MSWAnG6lJ/UML-activity-diagram-for-NYU-reviews?type=whiteboard&node-id=0%3A1&t=Yuoa7Uj9rnk3J2tt-1">here</a> or the diagram below to view it on figma.
