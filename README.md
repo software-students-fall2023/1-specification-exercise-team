@@ -49,13 +49,13 @@ Sophomore student majoring in Politics at NYU. Strict vegetarian due to personal
 
 ## Product Vision Statement
 
- *Name space-holder*: Empowering the NYU community with tailored dining experiences by seamlessly integrating specific preferences, safety, and convenience.
+**NoshNYU**: Empowering the NYU community with tailored dining experiences by seamlessly integrating specific preferences and convenience.
 
 ## User Requirements
 
 - As a car owner, I want to see available parking spots near a restaurant so that I can plan my visit without parking hassles.
 - As a vegetarian, I want to filter my search to only show vegetarian-friendly restaurants so that I can dine without compromising my dietary choices.
-- As a safety-conscious individual, I want to know the safety rating of areas where restaurants are located so that I can dine in peace.
+- As a frequent diner, I want to save my favorite restaurants so I can easily access them for future visits.
 - As someone with religious dietary restrictions, I want to find restaurants that adhere to specific standards like halal or kosher.
 - As a budget-conscious student, I want to see updated pricing for meals so that there are no unexpected costs during my visit.
 - As a planner, I want to reserve both my table and parking spot simultaneously so that my dining experience is seamless from start to finish.
