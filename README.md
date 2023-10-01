@@ -74,4 +74,4 @@ Below is a picture of the wireframe diagrams of every screen in our app. Click <
 <a href="https://www.figma.com/file/ysePRE2BdQpnOwgiMVVXz1/Wireframe-of-my-App?type=design&node-id=0%3A1&mode=design&t=oUdI9V2Z1VeBwCqB-1"><img src="./Source/Wireframes.png" alt="Wireframe Diagrams for our app"></a>
 
 ## Clickable Prototype
-Under Construction...
+Click <a href="https://www.figma.com/proto/OBs5YXrqtPhTSkXSh43Ojn/Prototype-of-my-App?page-id=0%3A1&type=design&node-id=1-2&viewport=99%2C242%2C0.09&t=hJlGjHCLo3NdZ0mN-1&scaling=scale-down&starting-point-node-id=1%3A2&mode=design">here</a> to access the prototype of our App.
